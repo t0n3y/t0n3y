@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @t0n3y
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Java and JavaScript
+- 📫 How to reach me: contact@tonyproductions.de
+- 😄 Pronouns: He/His
+- 🇩🇪 I'm from Germany 
